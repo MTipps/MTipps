@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Revamping my personal website](https://github.com/MTipps/website-personal)
 
-- 🌱 I’m currently learning **Unity and Flutter**
-
 - 👨‍💻 All of my projects are available at [https://www.megantipps.co.za/](https://www.megantipps.co.za/)
 
 - 💬 Ask me about **Vue, CSS, SASS and Javascript**
