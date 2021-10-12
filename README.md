@@ -1,6 +1,5 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFvt7xqv_ZGbw/profile-displaybackgroundimage-shrink_200_800/0/1618069976836?e=1623283200&v=beta&t=Pj9AOOupocs0lMAgfrxH19jYenjFvaj4T-CopOjTgvw" alt="cover" />
-</div>
+[![wakatime](https://wakatime.com/badge/user/7bbcdb0b-82f0-45f3-8634-fbd1ecef13be.svg)](https://wakatime.com/@7bbcdb0b-82f0-45f3-8634-fbd1ecef13be)
+
 
 ### <div align="center">I'm Megan, a full-time front-end web developer. 👨‍💻</div>  
   
