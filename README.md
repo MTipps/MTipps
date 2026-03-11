@@ -1,82 +1,129 @@
-[![wakatime](https://wakatime.com/badge/user/7bbcdb0b-82f0-45f3-8634-fbd1ecef13be.svg)](https://wakatime.com/@7bbcdb0b-82f0-45f3-8634-fbd1ecef13be)
+# Hi, I'm Megan 👋
 
+I'm a **software engineer turned engineering leader** who still loves to write code.
 
-### <div align="center">I'm Megan, a full-time software engineer. 👨‍💻</div>    
+I care deeply about building **great products, healthy engineering teams, and sustainable tech careers.**
 
-<br/>  
+Most days you'll find me working across:
 
+- Modern frontends
+- Scalable APIs
+- Developer experience
+- Engineering leadership
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I believe the best engineering leaders stay **close to the code and close to their people.**
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-</div>
+> Great engineering teams are built with equal parts  
+> **technical excellence and empathy.**
 
-</td><td valign="top" width="33%">
-  
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🌱 About Me
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+- Engineering leader and hands-on developer
+- Writing about dev culture and leadership
+- Passionate about sustainable ambition in tech
+- Building better systems *and* better teams
 
-</td></tr></table>  
+---
 
+## 🔗 Links
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MTipps" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/megantipps" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+[![Blog](https://img.shields.io/badge/Blog-Leading%20with%20Empathy-6F8F7B?style=flat)](https://www.leadingwithempathy.blog)
 
-<br/>  
+![Writing](https://img.shields.io/badge/Writing-Engineering%20Leadership-1F2A36?style=flat)
+![Focus](https://img.shields.io/badge/Focus-API%20First%20Architecture-89AFA1?style=flat)
+![Focus](https://img.shields.io/badge/Focus-Developer%20Experience-6F8F7B?style=flat)
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTipps&hide_border=true&layout=compact" align="center" /></div>  
+## 🛠 Tech Stack
 
-<br/>  
+### Frontend
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MTipps&&style=flat-square" align="center" />
-</div>  
-  
+![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-SDK-02569B?style=flat)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat)
+![Pinia](https://img.shields.io/badge/Pinia-State_Management-F6C343?style=flat)
 
-<br/>  
+### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-API-E0234E?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud-4285F4?style=flat)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat)
+
+---
+
+## 🚀 Current Focus
+
+Right now I'm focused on:
+
+- Building **developer tools and SDKs**
+- Modernizing **legacy platforms**
+- Designing **API-first architectures**
+- Creating **healthy, sustainable engineering teams**
+
+---
+
+## 🌟 Featured Work
+
+Some areas I spend a lot of time building in:
+
+**Developer SDKs**  
+Private Flutter SDKs used by partners to integrate into product platforms.
+
+**Analytics Platforms**  
+Self-hosted data stacks using **Metabase, Docker, and Cloud infrastructure**.
+
+**Modernizing Legacy Systems**  
+Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
+
+---
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+I write about:
+
+- Engineering leadership
+- Developer culture
+- The journey from developer to CTO
+- Sustainable ambition in tech
+
+📖 Blog:  
+https://www.leadingwithempathy.blog
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MTipps&show_icons=true&hide_border=true)
+
+---
+
+## ⚡ Fun Facts
+
+- My best architecture ideas happen while walking the dogs
+- I enjoy debugging complex systems more than simple ones
+- Coffee improves code quality by **at least 37%**
+
+---
+
+## 📫 Connect With Me
+
+Blog: https://www.leadingwithempathy.blog  
+LinkedIn: https://linkedin.com/in/megantipps
