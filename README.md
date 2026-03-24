@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Workplace Happiness Isn’t Comfort: What Truly Makes Teams Happy](https://www.leadingwithempathy.blog/workplace-happiness-isnt-comfort-what-truly-makes-teams-happy/)
 - [High Standards Shouldn’t Mean High Anxiety: Building Ambitious Teams Without Burnout](https://www.leadingwithempathy.blog/high-standards-shouldnt-mean-high-anxiety-building-ambitious-teams-without-burnout/)
 - [The Pressure to Perform in Tech &lpar;And Why You Don’t Have to Be Exceptional Every Day&rpar;](https://www.leadingwithempathy.blog/the-pressure-to-perform-in-tech-and-why-you-dont-have-to-be-exceptional-every-day/)
 - [Burnout Doesn’t Start With Exhaustion — The Early Signs Leaders Miss](https://www.leadingwithempathy.blog/burnout-doesnt-start-with-exhaustion-the-early-signs-leaders-miss/)
 - [What I’ve Learned From Every “Difficult” Engineer I’ve Worked With](https://www.leadingwithempathy.blog/what-ive-learned-from-every-difficult-engineer-ive-worked-with/)
-- [Leading Self-Managed Teams &lpar;Without Losing Your Mind&rpar;](https://www.leadingwithempathy.blog/leading-self-managed-teams-without-losing-your-mind/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
