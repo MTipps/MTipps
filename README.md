@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Can’t Rush a Team That Needs Time to Grow](https://www.leadingwithempathy.blog/why-you-cant-rush-a-team-that-needs-time-to-grow/)
 - [People Don’t Burn Out Because They’re Weak — Why Caring Too Much Leads to Burnout at Work](https://www.leadingwithempathy.blog/people-dont-burn-out-because-theyre-weak-why-caring-too-much-leads-to-burnout-at-work/)
 - [Leadership Burnout Is Real: You Can’t Lead Well If You’re Running on Empty](https://www.leadingwithempathy.blog/leadership-burnout-is-real-you-cant-lead-well-if-youre-running-on-empty/)
 - [Workplace Happiness Isn’t Comfort: What Truly Makes Teams Happy](https://www.leadingwithempathy.blog/workplace-happiness-isnt-comfort-what-truly-makes-teams-happy/)
 - [High Standards Shouldn’t Mean High Anxiety: Building Ambitious Teams Without Burnout](https://www.leadingwithempathy.blog/high-standards-shouldnt-mean-high-anxiety-building-ambitious-teams-without-burnout/)
-- [The Pressure to Perform in Tech &lpar;And Why You Don’t Have to Be Exceptional Every Day&rpar;](https://www.leadingwithempathy.blog/the-pressure-to-perform-in-tech-and-why-you-dont-have-to-be-exceptional-every-day/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
