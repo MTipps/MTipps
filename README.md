@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Can’t Read the Room: What Leaders Still Need to Slow Down For](https://www.leadingwithempathy.blog/ai-cant-read-the-room-what-leaders-still-need-to-slow-down-for/)
 - [How to Build Trust in Your Team When Pressure Gets High](https://www.leadingwithempathy.blog/how-to-build-trust-in-your-team-when-pressure-gets-high/)
 - [What We Ignore Today Becomes Tomorrow’s Burnout: A Leadership Perspective](https://www.leadingwithempathy.blog/what-we-ignore-today-becomes-tomorrows-burnout-a-leadership-perspective/)
 - [Why You Can’t Rush a Team That Needs Time to Grow](https://www.leadingwithempathy.blog/why-you-cant-rush-a-team-that-needs-time-to-grow/)
 - [People Don’t Burn Out Because They’re Weak — Why Caring Too Much Leads to Burnout at Work](https://www.leadingwithempathy.blog/people-dont-burn-out-because-theyre-weak-why-caring-too-much-leads-to-burnout-at-work/)
-- [Leadership Burnout Is Real: You Can’t Lead Well If You’re Running on Empty](https://www.leadingwithempathy.blog/leadership-burnout-is-real-you-cant-lead-well-if-youre-running-on-empty/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
