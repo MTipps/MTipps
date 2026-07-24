@@ -82,7 +82,7 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 <!-- BLOG-POST-LIST:START -->
 - [Introverted Leadership: Finding My Own Way to Lead](https://www.leadingwithempathy.blog/introverted-leadership-finding-my-own-way-to-lead/)
 - [Why Psychological Safety Leads to Better Technical Thinking](https://www.leadingwithempathy.blog/why-psychological-safety-leads-to-better-technical-thinking/)
-- [AI Can’t Read the Room: What Leaders Still Need to Slow Down For](https://www.leadingwithempathy.blog/ai-cant-read-the-room-what-leaders-still-need-to-slow-down-for/)
+- [AI Can’t Read the Room: Why Engineering Leaders Still Need to Slow Down](https://www.leadingwithempathy.blog/ai-cant-read-the-room-what-leaders-still-need-to-slow-down-for/)
 - [How to Build Trust in Your Team When Pressure Gets High](https://www.leadingwithempathy.blog/how-to-build-trust-in-your-team-when-pressure-gets-high/)
 - [What We Ignore Today Becomes Tomorrow’s Burnout: A Leadership Perspective](https://www.leadingwithempathy.blog/what-we-ignore-today-becomes-tomorrows-burnout-a-leadership-perspective/)
 <!-- BLOG-POST-LIST:END -->
