@@ -84,7 +84,7 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 - [Why Psychological Safety Leads to Better Technical Thinking](https://www.leadingwithempathy.blog/why-psychological-safety-leads-to-better-technical-thinking/)
 - [AI Can’t Read the Room: Why Engineering Leaders Still Need to Slow Down](https://www.leadingwithempathy.blog/ai-cant-read-the-room-what-leaders-still-need-to-slow-down-for/)
 - [How to Build Trust in Your Team When Pressure Gets High](https://www.leadingwithempathy.blog/how-to-build-trust-in-your-team-when-pressure-gets-high/)
-- [What We Ignore Today Becomes Tomorrow’s Burnout: A Leadership Perspective](https://www.leadingwithempathy.blog/what-we-ignore-today-becomes-tomorrows-burnout-a-leadership-perspective/)
+- [How Invisible Workload Becomes Employee Burnout](https://www.leadingwithempathy.blog/what-we-ignore-today-becomes-tomorrows-burnout-a-leadership-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
