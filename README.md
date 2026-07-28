@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Monthly 1:1s to Notice Burnout, Blockers and Growth](https://www.leadingwithempathy.blog/how-i-use-monthly-1-1s-to-notice-burnout-blockers-and-growth/)
 - [Introverted Leadership: Finding My Own Way to Lead](https://www.leadingwithempathy.blog/introverted-leadership-finding-my-own-way-to-lead/)
 - [Why Psychological Safety Leads to Better Technical Thinking](https://www.leadingwithempathy.blog/why-psychological-safety-leads-to-better-technical-thinking/)
 - [AI Can’t Read the Room: Why Engineering Leaders Still Need to Slow Down](https://www.leadingwithempathy.blog/ai-cant-read-the-room-what-leaders-still-need-to-slow-down-for/)
 - [How to Build Trust in Your Team When Pressure Gets High](https://www.leadingwithempathy.blog/how-to-build-trust-in-your-team-when-pressure-gets-high/)
-- [How Invisible Workload Becomes Employee Burnout](https://www.leadingwithempathy.blog/what-we-ignore-today-becomes-tomorrows-burnout-a-leadership-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
