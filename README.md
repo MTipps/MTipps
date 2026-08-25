@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Wellbeing Programmes Cannot Fix an Unhealthy Work Culture](https://www.leadingwithempathy.blog/wellbeing-programmes-cannot-fix-an-unhealthy-work-culture/)
 - [AI Gave Managers Another Invisible Job](https://www.leadingwithempathy.blog/ai-gave-managers-another-invisible-job/)
 - [The Hidden Work of AI: Checking, Correcting and Making the Final Decision](https://www.leadingwithempathy.blog/the-hidden-work-of-ai-checking-correcting-and-making-the-final-decision/)
 - [AI Can Write Code Faster, but Can Your Team Maintain It?](https://www.leadingwithempathy.blog/ai-can-write-code-faster-but-can-your-team-maintain-it/)
 - [How I Use Monthly 1:1s to Notice Burnout, Blockers and Growth](https://www.leadingwithempathy.blog/how-i-use-monthly-1-1s-to-notice-burnout-blockers-and-growth/)
-- [Introverted Leadership: Finding My Own Way to Lead](https://www.leadingwithempathy.blog/introverted-leadership-finding-my-own-way-to-lead/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
