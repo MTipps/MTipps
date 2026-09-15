@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Upskilling Should Not Be an After-Hours Expectation](https://www.leadingwithempathy.blog/why-upskilling-should-not-be-an-after-hours-expectation/)
 - [The Verification Tax of AI-Generated Work](https://www.leadingwithempathy.blog/the-verification-tax-of-ai-generated-work/)
 - [Why Small Rituals Make Technical Work Feel More Human](https://www.leadingwithempathy.blog/why-small-rituals-make-technical-work-feel-more-human/)
 - [Wellbeing Programmes Cannot Fix an Unhealthy Work Culture](https://www.leadingwithempathy.blog/wellbeing-programmes-cannot-fix-an-unhealthy-work-culture/)
 - [AI Gave Managers Another Invisible Job](https://www.leadingwithempathy.blog/ai-gave-managers-another-invisible-job/)
-- [The Hidden Work of AI: Checking, Correcting and Making the Final Decision](https://www.leadingwithempathy.blog/the-hidden-work-of-ai-checking-correcting-and-making-the-final-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
