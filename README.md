@@ -80,11 +80,11 @@ Helping teams transition older platforms to modern stacks like **Vue + NestJS**.
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Small Signs Your Team Is Growing in Confidence](https://www.leadingwithempathy.blog/the-small-signs-your-team-is-growing-in-confidence/)
 - [Why Management Can Feel Lonely When Your Team Is Doing Well](https://www.leadingwithempathy.blog/why-management-can-feel-lonely-when-your-team-is-doing-well/)
 - [Why Engineering Managers Need Context, Not Another Resilience Lesson](https://www.leadingwithempathy.blog/why-engineering-managers-need-context-not-another-resilience-lesson/)
 - [When Productivity Pressure Is Really a Capacity Problem](https://www.leadingwithempathy.blog/when-productivity-pressure-is-really-a-capacity-problem/)
 - [Access Is Not Enough: Women in Tech and the AI Opportunity Gap](https://www.leadingwithempathy.blog/access-is-not-enough-women-in-tech-and-the-ai-opportunity-gap/)
-- [Developer Experience Is Emotional Infrastructure](https://www.leadingwithempathy.blog/developer-experience-is-emotional-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 I write about:
